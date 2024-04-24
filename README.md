@@ -166,7 +166,7 @@ Además, se utilizó AWS SageMaker para entrenar modelos de Machine Learning, ap
 
 * **`Juan Rabuffetti` _(Data Engineer)_**   <a href="https://www.linkedin.com/juan-rabuffetti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
-* **`Maria Eva Bichi` _(Data Analyst)_**  <a href="https://www.linkedin.com/in/maría-eva-bichi-264443203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+* **`Maria Eva Bichi` _(Data Analyst)_**  <a href="https://www.linkedin.com/in/maria-eva-bichi-264443203"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
 * **`Mayk Quispe` _(Data Scientist)_**   <a href="https://www.linkedin.com/in/mayk-quispe-gaspar-42814a97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 
